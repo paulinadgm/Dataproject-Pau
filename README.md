@@ -1,6 +1,6 @@
 # Dataproject-Pau
-📊 Análisis de Ventas Adidas
-Dashboard & Análisis de Venta Adidas 2020-2021 US
+## 📊 Análisis de Ventas Adidas
+Dashboard & Análisis de Venta Adidas 2020-2021 US.
 Este proyecto analiza las ventas de Adidas, enfocándose en el comportamiento por canal de venta, género, y ciudad. Se ha realizado un análisis exploratorio y un dashboard interactivo para identificar patrones y oportunidades.
 ## 🛠 Instalación y Requisitos
 Este proyecto fue desarrollado en Excel, por lo que no requiere código para ejecutarlo.
@@ -18,6 +18,7 @@ Se utilizó la base de datos de la fuente Kaggle: https://www.kaggle.com/dataset
 - Analizar más años de ventas, ya deberiamos poder estudiar el impacto 2022 vs 2021.
 - Incluir márgenes por producto para entender rentabilidad.
 - Evaluar si el boom de 2021 se devió a un factor específico y si la evolución sigue favorable para el resto de años
+- Analizar rentabilidad por producto y categoría
 
 ## 🤝 Contribuciones
 - Se pueden aceptar contribuciones si logran aportar los datos más actualizados de las ventas
