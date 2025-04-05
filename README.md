@@ -6,6 +6,12 @@ Este proyecto analiza las ventas de Adidas, enfocándose en el comportamiento po
 Este proyecto fue desarrollado en Excel, por lo que no requiere código para ejecutarlo.
 Se utilizó la base de datos de la fuente Kaggle: https://www.kaggle.com/datasets/sagarmorework/adidas-us-sales
 
+## 💾 Estructura del Proyecto
+├── data/ # Datos crudos y procesados de ventas
+├── Excel/ # Dashboard 
+├── results/ # Información de resultados
+├── README.md # Descripción del proyecto
+
 ## 📊 Resultados y Conclusiones
 - Las ventas aumentaron un +297,3% de 2020 a 2021.
 - El canal con más pedidos fue Online con un  $44.965.657 
