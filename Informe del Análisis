@@ -1,0 +1,29 @@
+## 📑 Informe del Análisis
+
+Para comenzar el proyecto, busqué un conjunto de datos que cumpliera con los requisitos establecidos (al menos 10 columnas y 2000 filas). 
+Utilicé la herramienta Google Dataset Search y encontré un dataset de ventas de productos de la marca Adidas.
+
+Una vez descargado, realicé una primera limpieza y preparación de los datos. Entre los pasos clave estuvieron:
+- Convertir el campo de fecha al formato de año para facilitar el análisis temporal.
+- Extraer el género desde la categoría del producto (separando "Men's", "Women's", etc.).
+-Identificar el tipo de producto (ropa, calzado, accesorios) como variable separada del género.
+
+Con los datos preparados, comencé a trabajar con tablas dinámicas en Excel para entender mejor la distribución de las ventas. 
+Me enfoqué en analizar el valor de las ventas (más que el profit) como variable principal. A partir de eso, exploré los siguientes aspectos:
+-Ventas por canal de distribución (Store, Online, Outlet).
+-Ventas por género del producto.
+-Ventas por tipo de ropa.
+-Y un cuadro donde ponia los top 5 ciudades con más y menos venta pero que sea variable en el dashboard la venta por región segun los filtros puestos
+
+Filtos que se utilizaron:
+-Año
+-Meses
+-Tipo de Producto 
+-Retail
+
+Aunque en los gráficos se mostraban estos campos, me interesaba ver la evolución de ventas dependiendo de si variaba alguno de estos campos, como por ejemplo:
+  -Venta Retail ya indicaba pero especifico al dar click como iba variando segun la región, el género y el canal de venta (online, tienda o outlet)
+
+Y como dato complementario, analicé también las ganancias (profit) para observar la rentabilidad.
+
+Finalmente, diseñé un dashboard visual e interactivo donde se destacan los insights clave del análisis, como el crecimiento anual, la participación de cada canal y la distribución de ventas por categoría.
